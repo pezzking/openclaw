@@ -70,6 +70,7 @@ USER.md
 
 # local tooling
 .serena/
+build-openclaw.sh
 
 # Agent credentials and memory (NEVER COMMIT)
 memory/
